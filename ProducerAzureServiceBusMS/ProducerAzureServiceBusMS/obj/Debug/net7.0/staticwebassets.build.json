@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aHkQyOhhD8eQOzGMI/ek7K24VFtWkHZyZlgOVgkgcxM=",
+  "Source": "ProducerAzureServiceBusMS",
+  "BasePath": "_content/ProducerAzureServiceBusMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
