@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l20CMlJ0GW6fLlbaYYmJ8CFYnjlnvu91yi7Opo0LAVvum3ZeamqusuSJTG4LjekjoGGk7sdkIe9QFDQcRzqr7A==",
+  "dgSpecHash": "vzwSXTLqhlflypeIdZViAORdTv4dPauZMymniPvV/2KNwSs0ruwkSnWMnrbojfjWjA0OncABRfzeuNH/l9ydew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj",
+  "projectFilePath": "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

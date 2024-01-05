@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj": {}
+    "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj": {
+    "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj",
+        "projectUniqueName": "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj",
         "projectName": "SubmitTest",
-        "projectPath": "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj",
-        "packagesPath": "C:\\Users\\Lipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\obj\\",
+        "projectPath": "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj",
+        "packagesPath": "C:\\Users\\luiz.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luiz.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/FatorSeguradora/APIs/_packaging/FatorConnect.Libs/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -56,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

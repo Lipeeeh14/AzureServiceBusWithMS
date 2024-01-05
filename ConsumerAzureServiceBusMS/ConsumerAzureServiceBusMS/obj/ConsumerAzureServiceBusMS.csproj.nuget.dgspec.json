@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureFunctions\\AzureServiceBusWithMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS.csproj": {}
+    "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureFunctions\\AzureServiceBusWithMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS.csproj": {
+    "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureFunctions\\AzureServiceBusWithMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS.csproj",
+        "projectUniqueName": "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS.csproj",
         "projectName": "ConsumerAzureServiceBusMS",
-        "projectPath": "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureFunctions\\AzureServiceBusWithMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS.csproj",
-        "packagesPath": "C:\\Users\\Lipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureFunctions\\AzureServiceBusWithMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS\\obj\\",
+        "projectPath": "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS.csproj",
+        "packagesPath": "C:\\Users\\luiz.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\ConsumerAzureServiceBusMS\\ConsumerAzureServiceBusMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luiz.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/FatorSeguradora/APIs/_packaging/FatorConnect.Libs/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureFunctions\\Mensageria\\SubmitTest\\SubmitTest\\SubmitTest.csproj": {
-                "projectPath": "C:\\Users\\Lipe\\Documents\\Arquivos Trabalho\\Testes\\AzureFunctions\\Mensageria\\SubmitTest\\SubmitTest\\SubmitTest.csproj"
+              "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj": {
+                "projectPath": "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj"
               }
             }
           }
@@ -70,7 +69,62 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj",
+        "projectName": "SubmitTest",
+        "projectPath": "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\SubmitTest.csproj",
+        "packagesPath": "C:\\Users\\luiz.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luiz.pereira\\Documents\\Arquivos Trabalho\\Testes\\AzureServiceBusWithMS\\SubmitTest\\SubmitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luiz.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

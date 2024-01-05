@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Mensageria\SubmitTest\SubmitTest\SubmitTest.csproj" />
     <ProjectReference Include="..\..\SubmitTest\SubmitTest\SubmitTest.csproj" />
   </ItemGroup>
 

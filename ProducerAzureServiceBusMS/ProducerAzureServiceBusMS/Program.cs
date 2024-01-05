@@ -16,7 +16,9 @@ builder.Services.AddMassTransit(x =>
 	{
 		cfg.Host(configuration["ConnectionString"]);
 
-		cfg.ReceiveEndpoint(configuration["Queue"], e => { });
+		cfg.ReceiveEndpoint(configuration["Queue"], e => 
+		{
+		});
 	});
 });
 

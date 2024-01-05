@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsumerAzureServiceBusMS
-build_property.ProjectDir = C:\Users\Lipe\Documents\Arquivos Trabalho\Testes\AzureFunctions\AzureServiceBusWithMS\ConsumerAzureServiceBusMS\ConsumerAzureServiceBusMS\
+build_property.ProjectDir = C:\Users\luiz.pereira\Documents\Arquivos Trabalho\Testes\AzureServiceBusWithMS\ConsumerAzureServiceBusMS\ConsumerAzureServiceBusMS\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
